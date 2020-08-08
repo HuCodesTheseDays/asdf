@@ -1,0 +1,261 @@
+.container {
+    position: relative;
+    text-align: center;
+  }
+
+.game-background {
+    width: 75%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+#title-text {
+    text-align: center;
+}
+
+#transparent-button-charleston {
+    background : red;
+    position:absolute;
+    border: none !important;
+    font-size:0;
+    width:20%;
+    height:21%;
+    left:25%;
+    top:20%;
+    outline:none;
+}
+
+#transparent-button-canton {
+    background : red;
+    position:absolute;
+    border: none !important;
+    font-size:0;
+    width:20%;
+    height:21%;
+    left:62%;
+    top:30%;
+    outline:none;
+}
+
+#weymouth-left-btn {
+    background : red;
+    position:absolute;
+    border: none !important;
+    font-size:0;
+    width:21%;
+    height:21%;
+    left:17.5%;
+    top:67%;
+    outline:none;
+}
+
+#weymouth-right-btn {
+    background : red;
+    position:absolute;
+    border: none !important;
+    font-size:0;
+    width:20%;
+    height:21%;
+    left:62.5%;
+    top:67%;
+    outline:none;
+}
+
+#weymouth-middle-btn {
+    background : red;
+    position: absolute;
+    border: none !important;
+    font-size:0;
+    width:21%;
+    height:21%;
+    left:39.5%;
+    top:67%;
+    outline:none;
+}
+
+#canton-left-btn {
+    background : red;
+    position: absolute;
+    border: none !important;
+    font-size:0;
+    width:21%;
+    height:20%;
+    left:26%;
+    top:67%;
+    outline:none;
+}
+
+#canton-right-btn {
+    background : red;
+    position: absolute;
+    border: none !important;
+    font-size:0;
+    width:21%;
+    height:20%;
+    left:53%;
+    top:67%;
+    outline:none;
+}
+
+#btn-join-army {
+    background : red;
+    position: absolute;
+    border: none !important;
+    font-size:0;
+    width:23%;
+    height:24%;
+    left:38%;
+    top:67%;
+    outline:none;
+}
+
+#gettysburg-button {
+    background : blue;
+    position:absolute;
+    border: none !important;
+    font-size:0;
+    width:31%;
+    height:10%;
+    left:39%;
+    top:21%;
+    outline:none;
+}
+
+
+#antietam-button {
+    background : red;
+    position:absolute;
+    border: none !important;
+    font-size:0;
+    width:31%;
+    height:10%;
+    left:39%;
+    top:31%;
+    outline:none;
+}
+
+#fredericksburg-button {
+    background : violet;
+    position: absolute;
+    border: none !important;
+    font-size:0;
+    width:31%;
+    height:10%;
+    left:39%;
+    top:40%;
+    outline:none;
+}
+
+#fredericksburg-scene {
+    background:url("../images/fredericksburg.jpg") no-repeat center;
+    height:106.74740484429066vh;
+    margin: auto;
+    margin-top: 0.8650519031141869vh;
+}
+
+#spotsylvania-button {
+    background : blue;
+    position:absolute;
+    border: none !important;
+    font-size:0;
+    width:28%;
+    height:10%;
+    left:40%;
+    top:37%;
+    outline:none;
+}
+
+#cold-harbor-button {
+    background : red;
+    position: absolute;
+    border: none !important;
+    font-size:0;
+    width:31%;
+    height:8%;
+    left:60%;
+    top:45%;
+    outline:none;
+}
+
+#petersburg-button {
+    background : violet;
+    position: absolute;
+    border: none !important;
+    font-size:0;
+    width:24%;
+    height:8%;
+    left:41%;
+    top:49%;
+    outline:none;
+}
+
+#choose-another-battle {
+    background : red;
+    position:absolute;
+    border: none !important;
+    font-size:0;
+    width:25%;
+    height:21%;
+    left:22%;
+    top:67%;
+    outline:none;
+}
+
+#leave-the-army {
+    background : red;
+    position:absolute;
+    border: none !important;
+    font-size:0;
+    width:25%;
+    height:21%;
+    left:50%;
+    top:67%;
+    outline:none;
+}
+
+#trigger-modal {
+    background : red;
+    position:absolute;
+    border: none !important;
+    font-size:0;
+    width:17%;
+    height:21%;
+    left:63%;
+    top:44%;
+    outline:none;
+}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgba(255,255,255); /* Black w/ opacity */
+  }
+  
+  /* Modal Content/Box */
+  .modal-content {
+    background-color: white;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 50%; /* Could be more or less, depending on screen size */
+  }
+
+.btn-dog-tag {
+    background : red;
+    position:absolute;
+    border: none !important;
+    font-size:0;
+    width:17%;
+    height:27%;
+    left:63%;
+    top:40%;
+    outline:none;
+}
